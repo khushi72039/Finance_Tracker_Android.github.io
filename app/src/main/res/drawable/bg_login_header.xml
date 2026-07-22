@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:angle="135"
+                android:endColor="#1A45B8"
+                android:startColor="#2D62ED"
+                android:type="linear" />
+        </shape>
+    </item>
+    <item
+        android:bottom="350dp"
+        android:left="50dp"
+        android:right="50dp"
+        android:top="50dp"
+        android:drawable="@drawable/ic_wallet_illustration"
+        android:alpha="0.1"
+        android:gravity="center" />
+</layer-list>

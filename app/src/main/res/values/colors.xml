@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Semantic Colors (Auto-switching) -->
+    <color name="app_background">#F9FAFB</color>
+    <color name="app_card">#FFFFFF</color>
+    <color name="text_main">#111827</color>
+    <color name="text_sub">#6B7280</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="accent_primary">#2D62ED</color>
+
+    <!-- Legacy / Constant Colors -->
+    <color name="dark_bg">#121212</color>
+    <color name="dark_card">#1E1E1E</color>
+    <color name="accent_purple">#BB86FC</color>
+    <color name="error_red">#FF5252</color>
+    <color name="success_green">#4CAF50</color>
+
+    <color name="primary_color">#BB86FC</color>
+    <color name="secondary_color">#03DAC6</color>
+</resources>

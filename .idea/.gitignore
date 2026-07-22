@@ -1,0 +1,48 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Firebase / API keys - IMPORTANT
+google-services.json
+
+# API keys file - IMPORTANT
+**/Constants.kt
+
+# Android Studio generated files and folders
+generated/
+*.apk
+*.ap_
+*.dex
+
+# Keystore files (NEVER commit these)
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Android Profiling
+*.hprof
+
+# OS generated
+Thumbs.db
+
+# Gradle cache
+.gradle/
+build/
+
+# Signing configs
+signing.properties
+keystore.properties

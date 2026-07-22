@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Wallet Body -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M40,60 h120 c5.5,0 10,4.5 10,10 v60 c0,5.5 -4.5,10 -10,10 h-120 c-5.5,0 -10,-4.5 -10,-10 v-60 c0,-5.5 4.5,-10 10,-10z" />
+    <!-- Wallet Fold -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M160,80 h-110 c-5.5,0 -10,4.5 -10,10 v20 c0,5.5 4.5,10 10,10 h110z" />
+    <!-- Wallet Button -->
+    <path
+        android:fillColor="#757575"
+        android:pathData="M140,95 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+    <!-- Money sticking out -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M60,50 h40 v15 h-40z" />
+</vector>

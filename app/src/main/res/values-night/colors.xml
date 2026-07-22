@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Mode Semantic Colors -->
+    <color name="app_background">#121212</color>
+    <color name="app_card">#1E1E1E</color>
+    <color name="text_main">#E1E1E1</color>
+    <color name="text_sub">#A0A0A0</color>
+    <color name="text_primary">#E1E1E1</color>
+    <color name="text_secondary">#A0A0A0</color>
+    <color name="accent_primary">#BB86FC</color>
+</resources>
